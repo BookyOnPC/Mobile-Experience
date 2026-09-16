@@ -1,18 +1,24 @@
 {
-  "name": "Signal — AI Motion Experiment",
-  "short_name": "Signal",
-  "description": "An experimental touch-driven AI motion experience.",
+  "name": "A Little Further",
+  "short_name": "Further",
+  "description": "A small interactive story about momentum.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#05070b",
-  "theme_color": "#05070b",
   "orientation": "portrait",
+  "background_color": "#090612",
+  "theme_color": "#090612",
   "icons": [
     {
-      "src": "icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]

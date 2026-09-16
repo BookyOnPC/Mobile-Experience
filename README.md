@@ -1,3 +1,3 @@
-# Mobile Experience
+# A Little Further
 
-Experimental mobile-first AI motion experience. Hosted as an installable PWA for rapid iteration and phone testing.
+Interactive mobile story experiment. Hosted with GitHub Pages.
