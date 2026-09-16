@@ -1,0 +1,19 @@
+{
+  "name": "Signal — AI Motion Experiment",
+  "short_name": "Signal",
+  "description": "An experimental touch-driven AI motion experience.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05070b",
+  "theme_color": "#05070b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
